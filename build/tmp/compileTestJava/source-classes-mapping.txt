@@ -1,0 +1,2 @@
+com/shopvintage/auctions/AuctionsApplicationTests.java
+ com.shopvintage.auctions.AuctionsApplicationTests

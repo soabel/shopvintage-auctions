@@ -1,0 +1,18 @@
+com/shopvintage/auctions/domain/services/AuctionService.java
+ com.shopvintage.auctions.domain.services.AuctionService
+com/shopvintage/auctions/domain/services/impl/AuctionServiceImpl.java
+ com.shopvintage.auctions.domain.services.impl.AuctionServiceImpl
+com/shopvintage/auctions/persistence/entities/AuctionBid.java
+ com.shopvintage.auctions.persistence.entities.AuctionBid
+com/shopvintage/auctions/persistence/repositories/AuctionsRepository.java
+ com.shopvintage.auctions.persistence.repositories.AuctionsRepository
+com/shopvintage/auctions/persistence/entities/Bidder.java
+ com.shopvintage.auctions.persistence.entities.Bidder
+com/shopvintage/auctions/persistence/entities/Auction.java
+ com.shopvintage.auctions.persistence.entities.Auction
+com/shopvintage/auctions/AuctionsApplication.java
+ com.shopvintage.auctions.AuctionsApplication
+com/shopvintage/auctions/domain/dto/AuctionDto.java
+ com.shopvintage.auctions.domain.dto.AuctionDto
+com/shopvintage/auctions/web/controller/AuctionsController.java
+ com.shopvintage.auctions.web.controller.AuctionsController
